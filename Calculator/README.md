@@ -13,10 +13,10 @@ This is a simple calculator app built using React. It performs basic arithmetic 
 See the live project in action: https://calculator-reactjsx.netlify.app/
 
 # Technologies Used
-. React
-. HTML
-. CSS
-. JS
+- React
+- HTML
+- CSS
+- JS
 
 # Usage
 1.Click the buttons to input numbers and operators.
