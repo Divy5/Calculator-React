@@ -19,6 +19,6 @@ See the live project in action: https://calculator-reactjsx.netlify.app/
 - JS
 
 # Usage
-1-Click the buttons to input numbers and operators.
-2-Click "=" to get the result of the calculation.
-3-Click "C" to clear the input and reset the calculator.
+1. Click the buttons to input numbers and operators.
+2. Click "=" to get the result of the calculation.
+3. Click "C" to clear the input and reset the calculator.
