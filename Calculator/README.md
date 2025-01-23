@@ -10,7 +10,7 @@ This is a simple calculator app built using React. It performs basic arithmetic 
 ![image alt](https://github.com/Divy5/Calculator-React/blob/e15e055233571f8817677e57788db4f71566f80e/Calculator/Screenshot%202025-01-23%20123617.png)
 
 # Demo
-See the live project in action: https://react-js-simple-calculator.netlify.app/
+See the live project in action: https://calculator-reactjsx.netlify.app/
 
 # Technologies Used
 . React
